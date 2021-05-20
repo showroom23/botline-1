@@ -1,0 +1,31 @@
+{
+    "type": "template",
+    "altText": "this is a carousel template",
+    "template": {
+      "type": "carousel",
+      "columns": [
+        {
+          "title": "MENU 1",
+          "text": "Makanan",
+          "actions": [
+            {
+              "type": "message",
+              "label": "Open Menu",
+              "text": "Menu open"
+            }
+          ]
+        },
+        {
+          "title": "MENU 2",
+          "text": "Minuman",
+          "actions": [
+            {
+              "type": "message",
+              "label": "Open Menu",
+              "text": "Menu Open"
+            }
+          ]
+        }
+      ]
+    }
+  }
